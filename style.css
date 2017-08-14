@@ -76,6 +76,13 @@ footer{
 	font-family: "Raleway";
 	float: right;
 }
+.reset {
+	font-family: "Raleway";
+	float: right;
+	
+
+
+}
 
 .clearfix:after {
   visibility: hidden;
